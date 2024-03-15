@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ERP/static/css/main.3bccb9d1.css",
+    "main.js": "/ERP/static/js/main.b5d20fdb.js",
+    "index.html": "/ERP/index.html",
+    "main.3bccb9d1.css.map": "/ERP/static/css/main.3bccb9d1.css.map",
+    "main.b5d20fdb.js.map": "/ERP/static/js/main.b5d20fdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bccb9d1.css",
+    "static/js/main.b5d20fdb.js"
+  ]
+}
